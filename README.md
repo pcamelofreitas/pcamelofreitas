@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pcamelofreitas
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning React,js
-- 💞️ I’m looking to collaborate on open source projects with react.js, node.js
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m looking to collaborate on open source projects with JavaScript or Flutter
 - 📫 How to reach me pcamelofreitas@gmail.com
 
 
