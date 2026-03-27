@@ -2,7 +2,8 @@
 
 Sou um programador com sólida experiência no mercado, focado em criar soluções mobile eficientes e escaláveis. Atualmente trabalho em regime CLT, unindo a disciplina do trabalho em equipe com a agilidade do desenvolvimento moderno.
 
-- 👋 **Oi, eu sou o Pedro!** - 🔭 **Foco principal:** Desenvolvimento Mobile com Flutter e Dart.
+- 👋 **Oi, eu sou o Pedro!** 
+- 🔭 **Foco principal:** Desenvolvimento Mobile com Flutter e Dart.
 - 🛠️ **Ecossistema Técnico:** Experiência com React, Python, Django e WordPress.
 - 🗄️ **Bancos de Dados:** Familiaridade com Firebase (NoSQL) e consultas SQL.
 - 🏡 **Base:** Atuando em Home Office diretamente de Recife/PE.
