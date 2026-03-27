@@ -32,10 +32,14 @@ Sou um programador com sólida experiência no mercado, focado em criar soluçõ
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas e Consistência
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pcamelofreitas&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas de Pedro" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pcamelofreitas&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&border_radius=8" alt="Estatísticas de Pedro" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pcamelofreitas&layout=compact&theme=radical&hide_border=true&border_radius=8&count_private=true" alt="Linguagens mais usadas" />
 </p>
 
 ---
